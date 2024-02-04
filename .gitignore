@@ -1,0 +1,26 @@
+# goland project files
+.idea
+.fleet
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# Mac DS_Store Files
+.DS_Store
+
+*.swagger.json
+openapi.yaml
+.swagger-codegen
+.swagger-codegen-ignore
+openapi.json
+self.md
+netrc
+.env
+main
+*.csv
+.air.toml
+tmp/
+pixiu-dsp-drs
